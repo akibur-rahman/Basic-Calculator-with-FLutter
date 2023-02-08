@@ -37,7 +37,7 @@ class MyHomePageState extends State<MyHomePage> {
   var no2Controller = TextEditingController();
 
   // ignore: prefer_typing_uninitialized_variables
-  var no1;
+  var no1; //stores number form 1st text field
   // ignore: prefer_typing_uninitialized_variables
   var no2;
   dynamic result = 0;
