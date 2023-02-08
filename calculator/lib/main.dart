@@ -39,7 +39,7 @@ class MyHomePageState extends State<MyHomePage> {
   // ignore: prefer_typing_uninitialized_variables
   var no1; //stores number form 1st text field
   // ignore: prefer_typing_uninitialized_variables
-  var no2;
+  var no2; //stores number from 2nd text field
   dynamic result = 0;
 
   @override
