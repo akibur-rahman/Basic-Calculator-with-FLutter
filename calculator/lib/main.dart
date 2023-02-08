@@ -49,7 +49,7 @@ class MyHomePageState extends State<MyHomePage> {
         title: const Center(child: Text('Basic Calculator')),
       ),
       body: Container(
-          color: Colors.blue.shade50,
+          color: Colors.blue.shade50, //light shade of blue
           child: Padding(
             padding: const EdgeInsets.all(25.0),
             child: Center(
